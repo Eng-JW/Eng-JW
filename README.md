@@ -27,7 +27,7 @@ Driven by curiosity and collaboration, I am constantly exploring new ways to int
 #### Main Stack:
 ![My Skills](https://skillicons.dev/icons?i=c,cpp)<br><br>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN6c2llNzF3dmphOXp3c3UxdXd1bzZvZnpqZ2tlaGlkN290N2ZlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN6c2llNzF3dmphOXp3c3UxdXd1bzZvZnpqZ2tlaGlkN290N2ZlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
